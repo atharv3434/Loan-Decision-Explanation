@@ -5,6 +5,7 @@ which is exactly why post-hoc explanation methods like Shapley values matter
 here: unlike a plain logistic regression, you can't just read the
 coefficients to see what the model is doing.
 """
+
 from __future__ import annotations
 
 from sklearn.ensemble import GradientBoostingClassifier
