@@ -18,6 +18,7 @@ Features, by design:
   lucky_number         — pure noise, independent of everything; the sanity
                          check every method should rank at the bottom.
 """
+
 from __future__ import annotations
 
 import numpy as np
